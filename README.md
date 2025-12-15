@@ -29,26 +29,6 @@ El repositorio se utiliza como **sistema de control de versiones**, permitiendo:
 **Docente:** Silvia Ticay
 
 
----
-
-## Estructura del repositorio
-
-```text
-├── README.md               # Descripción general del proyecto
-├── docs/                   # Documentación del proyecto
-│   ├── analisis-caso.md    # Análisis de problemas y diagnóstico
-│   ├── seguridad.md        # Medidas de seguridad y privacidad
-│   ├── licencias.md        # Uso de licencias y autoría
-│   └── recomendaciones.md # Buenas prácticas y conclusiones
-├── web/                    # Archivos del sitio web del proyecto
-│   ├── index.html
-│   ├── styles.css
-│   └── script.js
-├── assets/                 # Recursos multimedia (con licencia válida)
-│   └── README.md           # Fuente y tipo de licencia de los recursos
-└── .gitignore              # Archivos ignorados por Git
-```
-
 
 ---
 
