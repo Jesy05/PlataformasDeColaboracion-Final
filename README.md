@@ -71,7 +71,7 @@ Este repositorio se complementa con:
 
 * **Trello:** gestión de tareas y dependencias
 * **Google Drive / OneDrive:** almacenamiento colaborativo
-* **Discord:** comunicación del equipo
+* **WhatsApp:** comunicación del equipo
 
 ---
 
