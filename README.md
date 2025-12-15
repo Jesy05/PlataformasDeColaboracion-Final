@@ -27,7 +27,7 @@ El repositorio se utiliza como **sistema de control de versiones**, permitiendo:
 * Oliver David Brenes Argüello
 
 **Docente:** Silvia Ticay
-**Lugar y fecha:** Managua, 15 de diciembre del 2025
+
 
 ---
 
@@ -49,17 +49,6 @@ El repositorio se utiliza como **sistema de control de versiones**, permitiendo:
 └── .gitignore              # Archivos ignorados por Git
 ```
 
----
-
-## 🔐 Seguridad y buenas prácticas
-
-* No se almacenan datos personales reales de estudiantes o docentes.
-* El acceso al repositorio está limitado a los miembros del equipo.
-* Se recomienda el uso de:
-
-  * Autenticación en dos pasos (2FA)
-  * Contraseñas seguras
-  * Revisión periódica de permisos
 
 ---
 
